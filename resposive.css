@@ -1,0 +1,77 @@
+
+@media (max-width:768px) {
+.navbar-brand li{
+    display: inline-block;
+    border: 1px solid white;
+    background-color: rgb(72, 34, 212);
+    color: white;
+    font-family:none;
+    font-size: 16px;
+    border-radius: 5px;
+    padding: 4px 15px;
+}
+.button1 button{
+    border: 1px solid white;
+    color: white;
+    margin-right: -2px;
+    border-radius: 50px;
+    font-size: 10px;
+    font-weight: 500;
+}
+.banner3{
+    padding: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}

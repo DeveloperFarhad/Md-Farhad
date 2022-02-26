@@ -1,0 +1,5 @@
+.banner2{
+    background-image: url(Image/Portfolio/Backgorund/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
